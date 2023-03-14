@@ -1,0 +1,22 @@
+/* Объединяет все стили */
+
+@import "_normalize.css";
+@import "_fonts.css";
+@import "_variables.css";
+@import "_vendor.css";
+@import "_global.css";
+@import "_overall.css";
+
+/* components imports */
+
+@import "./Components/_header.css";
+@import "./Components/_first.css";
+@import "./Components/_become.css";
+@import "./Components/_featured.css";
+@import "./Components/_slider.css";
+@import "./Components/_newsletter.css";
+@import "./Components/_insp.css";
+@import "./Components/_footer.css";
+
+
+@import "_media.css";

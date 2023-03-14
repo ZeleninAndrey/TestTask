@@ -1,0 +1,12 @@
+/* Здесь хранятся переменные */
+
+:root {
+--white-color: #fff;
+--black-color: #000;
+--dark-color: #1c2e3d;
+--accent-color: #e8594e;
+--neptune-color: #73afba;
+--newsletter-gap: 133px;
+--accent-hover-color: #f03f1cb3;
+--neptune-hover-color: #398992f2;
+}
